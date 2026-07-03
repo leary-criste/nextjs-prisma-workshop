@@ -20,4 +20,4 @@ export const feedback = [
     name: 'Alex',
     email: 'alex@prisma.io',
   },
-];
+];
